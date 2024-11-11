@@ -1,16 +1,16 @@
-idDireccion,ubicación,número,barrio,códigoPostal
+idDireccion,ubicacion,numero,barrio,codigoPostal
 801,Calle 10,123,Centro,110001
-802,Carrera 7,456,Chapinero,110221
-803,Avenida 68,789,Fontibón,110931
-804,Calle 100,321,Usaquén,110010
-805,Carrera 15,654,Teusaquillo,110231
-806,Avenida Suba,987,Suba,111121
-807,Calle 26,159,Ciudad Salitre,110931
-808,Carrera 50,753,Puente Aranda,111061
-809,Calle 72,852,Barrios Unidos,111211
-810,Carrera 30,951,Antonio Nariño,111041
-811,Calle 5,200,Las Aguas,110531
+802,Carrera 7,456,El Poblado,110221
+803,Avenida 68,789,Granada,110931
+804,Calle 100,321,El Prado,110010
+805,Carrera 15,654,Bocagrande,110231
+806,Avenida Suba,987,La Concordia,111121
+807,Calle 26,159,La Virginia,110931 
+808,Carrera 50,753,Centro,111061
+809,Calle 72,852,La Concordia,111211
+810,Carrera 30,951,San Bosco,111041
+811,Calle 5,200,El Tejar,110531
 812,Carrera 4,840,La Macarena,110521
-813,Avenida 19,710,Nueva Granada,110301
-814,Calle 56,450,El Rosal,110631
+813,Avenida 19,710,San Luis,110301
+814,Calle 56,450,La Floresta,110631
 815,Carrera 8,322,El Tintal,110741
