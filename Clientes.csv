@@ -14,3 +14,13 @@ idCliente,nombre,edad,teléfono,sexo,tieneTitulo
 113,Mariana Salinas,31,3123456789,F,true
 114,Nicolás Gutiérrez,39,3134567890,M,false
 115,Olga Prieto,45,3145678901,F,true
+116,Laura Gómez,27,3156789012,F,true
+117,Juan Pérez,33,3167890123,M,false
+118,Martín López,40,3178901234,M,true
+119,Carla Sánchez,22,3189012345,F,false
+120,Andrés Rodríguez,38,3190123456,M,true
+121,Patricia Díaz,29,3201234567,F,true
+122,Ricardo Fernández,36,3212345678,M,false
+123,Sofía Martínez,25,3223456789,F,true
+124,Antonio Ruiz,41,3234567890,M,false
+125,Beatriz González,34,3245678901,F,true
