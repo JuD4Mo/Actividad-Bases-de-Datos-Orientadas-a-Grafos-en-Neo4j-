@@ -1,4 +1,4 @@
-idCliente,nombre,edad,teléfono,sexo,tieneTitulo
+idCliente,nombre,edad,telefono,sexo,tieneTitulo
 101,Ana Pérez,29,3001234567,F,true
 102,Carlos Ruiz,35,3012345678,M,false
 103,Beatriz Gómez,42,3023456789,F,true
