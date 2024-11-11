@@ -24,3 +24,8 @@ idCliente,nombre,edad,teléfono,sexo,tieneTitulo
 123,Sofía Martínez,25,3223456789,F,true
 124,Antonio Ruiz,41,3234567890,M,false
 125,Beatriz González,34,3245678901,F,true
+126,Samuel Herrera,32,3256789012,M,true
+127,Julia Pérez,29,3267890123,F,false
+128,Roberto García,38,3278901234,M,true
+129,Vanessa Jiménez,27,3289012345,F,true
+130,Raúl Mendoza,41,3290123456,M,false
